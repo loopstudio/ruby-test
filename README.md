@@ -1,3 +1,3 @@
 # LoopStudio ruby test for new candidates
 
-[instructions](instructions/loop-ruby-test.pdf)
+[instructions](instructions/Loop-Ruby-Test.pdf)
